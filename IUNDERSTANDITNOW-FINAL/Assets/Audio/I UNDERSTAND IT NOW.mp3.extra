@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "ac29dc5f-9ec6-2a26-67c4-aeb6e5868984",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "I UNDERSTAND IT NOW",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS",
+    "resourceFilePath": "C:\\Users\\jeffd\\Downloads\\I UNDERSTAND IT NOW.mp3"
+  }
+]

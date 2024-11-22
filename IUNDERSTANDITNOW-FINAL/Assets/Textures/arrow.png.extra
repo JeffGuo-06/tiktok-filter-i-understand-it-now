@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "151de9a7-71f0-38f8-aa98-1894f9f99694",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "arrow",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "C:\\Users\\jeffd\\Downloads\\arrow.png"
+  }
+]

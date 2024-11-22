@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "17470553-a658-9728-27b2-88c2a3850a6d",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Visual Effects",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

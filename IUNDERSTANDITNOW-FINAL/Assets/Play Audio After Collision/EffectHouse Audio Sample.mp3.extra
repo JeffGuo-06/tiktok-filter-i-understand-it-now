@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "25c851db-215f-1b11-a4ff-8c038da937e3",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "EffectHouse Audio Sample",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS",
+    "assetPackageID": "7270261243628388353",
+    "resourceFilePath": "C:\\Users\\jeffd\\AppData\\Roaming\\EffectHouse\\package\\7270261243628388353\\EffectHouse Audio Sample.mp3"
+  }
+]
