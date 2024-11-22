@@ -1,4 +1,4 @@
-# tiktok-filter-i-understand-it-now
+# I UNDERSTAND IT NOW 2D BASKETBALL GAME TIKTOK EFFECT
 
 TikTok Effect inspired by the I Understand It Now trend.
 
